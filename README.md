@@ -1,9 +1,9 @@
-Netflix Content Analysis
-Overview
+**Netflix Content Analysis**
 
+**Overview**
 This project analyzes Netflix’s content catalog by cleaning, transforming, and visualizing data from a CSV file. The workflow ensures high-quality, standardized data for efficient analysis and includes a custom popularity classification based on user votes.
 
-Features
+**Features**
 Data Cleaning
   Detects and removes duplicate records.
   Handles missing (NULL) values appropriately.
@@ -21,8 +21,7 @@ Data Transformation
 Visualization
   Generates a plot showing the distribution of Netflix content by genre.
 
-Data
-
+**Data**
 The dataset contains information about Netflix titles, including:
 Title
 Popularity
@@ -33,7 +32,7 @@ Release Date
 Other metadata
 
 
-Results
+**Results**
 Genre Distribution Plot
 
 From the visualization, we can observe that certain genres (e.g., Dramas, Comedies, Thriller) dominate the Netflix library, while others appear less frequently.
